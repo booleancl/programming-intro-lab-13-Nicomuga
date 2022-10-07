@@ -1,4 +1,0 @@
-\c bigcities
-\COPY cities FROM 'C:/Users/nicom/intro_dev/programming-intro-lab-13-Nicomuga/data/ciudades.csv' csv HEADER;
-
-SELECT * FROM cities; 
